@@ -1,0 +1,6 @@
+export const ACTIONS = {
+    ORGANIZATION: {
+        CREATE: 'CREATE_ORGANIZATION',
+        DELETE: 'DELETE_ORGANIZATION',
+    }
+}
